@@ -5,7 +5,7 @@ This repository contains multiple 'get started' Kaggle solutions for practise by
 
 I will provide _comments_ in the notebooks to explain the process. Eg:
 
-'''python
+```python
 from tensorflow.keras.motels import Sequential
 from tensorflow.keras.layers import Dense, LSTM, SimpleRNN
 
@@ -16,5 +16,4 @@ model.add(Dense(25, Input=(25,25)))
 
 with f.Session() as sess:
   #Code execution for the model goes here
-  
-'''
+```
