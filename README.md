@@ -18,4 +18,6 @@ with f.Session() as sess:
   #Code execution for the model goes here
 ```
 
-Hope this helps some folks explore Kaggle better
+# Solution has Grid Search implemented with competitive performance of RF, GBM, SVC etc.
+
+> Model development is significantly more about iteration than pfilosophy -Lazy Programmer
