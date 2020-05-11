@@ -20,4 +20,5 @@ with f.Session() as sess:
 
 # Solution has Grid Search implemented with competitive performance of RF, GBM, SVC etc.
 
-> Model development is significantly more about iteration than pfilosophy -Lazy Programmer
+> Model development is significantly more about iteration than philosophy 
+> -Lazy Programmer
